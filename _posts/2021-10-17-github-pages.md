@@ -1,5 +1,5 @@
 ---
-title: learning how github pages works
+title: "learning how github pages works"
 date: 2021-10-21
 ---
 
